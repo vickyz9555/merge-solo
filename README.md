@@ -1,3 +1,6 @@
 # merge-solo
 
-This is an assignment
+this  
+is  
+an  
+assignment
