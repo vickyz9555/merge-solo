@@ -1,6 +1,6 @@
 # merge-solo
 
 this
-is
+is  
 my
-assignment
+homework
